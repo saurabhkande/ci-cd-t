@@ -39,7 +39,7 @@
 			      <uri>https://anypoint.mulesoft.com</uri>
 			      <muleVersion>4.3.0</muleVersion>
 			      <username>saurabhkande</username>
-			      <password>Ssk@1234</password>
+			      <password>Ssk@12345</password>
 			      <applicationName>CICD-Java</applicationName>
 			      <environment>Sandbox</environment>
 			      <workers>1</workers>
